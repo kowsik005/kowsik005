@@ -7,10 +7,10 @@ Data Analyst passionate about data-driven decision making, with growing expertis
 
 ## 🛠️ Skills
 
-**Languages:** Python, Java(Oops, DSA), SQL
-**Libraries:** Pandas, NumPy 
-**Tools:** Git, GitHub, Power Bi, Microsoft Excel, VS Code, Eclipse, Jupyter Notebook
-**Databases:** MYSQL
+- **Languages:** Python, Java (OOP, DSA), SQL
+- **Libraries:** Pandas, NumPy
+- **Tools:** Git, GitHub, Power BI, Microsoft Excel, VS Code, Eclipse, Jupyter Notebook
+- **Databases:** MySQL
 
 ---
 
